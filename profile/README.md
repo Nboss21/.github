@@ -1,4 +1,4 @@
-# Apexture Technology
+# Omera Technology
 
 Building modern digital experiences with intelligence, precision, and creativity.  
 Founded by Creative Developers.  
