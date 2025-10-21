@@ -3,9 +3,9 @@
 Building modern digital experiences with intelligence, precision, and creativity.  
 Founded by Creative Developers.  
 
-🌐 Website: [apexture.tech](https://omera.tech)  
+🌐 Website:  www.omera.tech 
 💡 Expertise: Web Apps • AI Solutions • Product Engineering  
-📬 Contact: hello@apexture.tech
+📬 Contact: hello@omera.tech
 
 ## About Us
 
@@ -40,8 +40,8 @@ End-to-end product development services that take your vision from concept to de
 
 Whether you're a startup looking to build your first product or an enterprise seeking to modernize your systems, we're here to help turn your ideas into exceptional digital experiences.
 
-📧 **Get in Touch**: hello@apexture.tech  
-🌐 **Visit Us**: [apexture.tech](https://apexture.tech)
+📧 **Get in Touch**: hello@omera.tech  
+🌐 **Visit Us**:  www.omera.tech
 
 ---
 
