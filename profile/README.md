@@ -5,7 +5,7 @@ Founded by Creative Developers.
 
 🌐 Website:  www.omera.tech 
 💡 Expertise: Web Apps • AI Solutions • Product Engineering  
-📬 Contact: hello@apexture.tech
+📬 Contact: hello@omera.tech
 
 ## About Us
 
