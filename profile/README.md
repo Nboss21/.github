@@ -4,6 +4,7 @@ Building modern digital experiences with intelligence, precision, and creativity
 Founded by Creative Developers.  
 
 🌐 Website:  www.omera.tech 
+
 💡 Expertise: Web Apps • AI Solutions • Product Engineering  
 📬 Contact: hello@omera.tech
 
